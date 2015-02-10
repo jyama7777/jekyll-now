@@ -8,8 +8,11 @@ permalink: /about/
  
  ### More Information
  
- A place to include any other types of information that you'd like to include about yourself. 
+ 
+ はじめまして。ＩＴ起業とフリーランサーの両立を目指すもなかなか軌道に乗らず、建設業との2足のわらじ生活をしています。
+ 
  
  ### Contact me
  
- [email@domain.com](mailto:email@domain.com)
+ 
+ [jyama7777@yahoo.co.jp](mailto:jyama7777@yahoo.co.jp)
