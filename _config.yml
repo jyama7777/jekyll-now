@@ -18,7 +18,7 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble: 
-  email:kikin.yama@gmail.com 
+  email:　kikin.yama@gmail.com 
   facebook: 
   flickr: 
   github: barryclark/jekyll-now
@@ -38,7 +38,7 @@ google_analytics:
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
 url: https://osaka001.stores.jp/#!/
-     http://osaka001.hotcom-web.com/wordpress/
+     　http://osaka001.hotcom-web.com/wordpress/
 
 # If you're hosting your site at a Project repository on GitHub pages 
 # (http://yourusername.github.io/repository-name)
